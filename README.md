@@ -12,6 +12,7 @@ This project is an AI-powered email assistant that connects to your Gmail inbox 
 **Note:** All email access is performed using the Gmail account configured during setup. The Telegram bot will answer using this account's inbox.
 
 ---
+![image](https://github.com/user-attachments/assets/4e33695e-95d1-4593-b23f-eba5b5a2865f)
 
 ## Features
 
